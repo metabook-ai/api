@@ -85,5 +85,5 @@ gemini-2.5-flash
 
 
 ## 写作skill id
-<img width="710" height="974" alt="image" src="https://github.com/user-attachments/assets/377281d7-21d7-4ffd-9758-7af2b7aa0eb2" />
+<img width="734" height="983" alt="image" src="https://github.com/user-attachments/assets/a72395de-1574-4a58-875c-0ea57ab92a8e" />
 
